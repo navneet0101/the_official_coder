@@ -1,0 +1,19 @@
+        section class=section
+            div class=container
+                div class=row align-items-center
+                    div class=col-md-7
+                        div class=screen-normal wow slideInLeft
+                            img src=uploadscreen_03.jpg alt= class=img-fluid
+                        div!-- end screen --
+                    div!-- end col --
+
+                    div class=col-md-5 mobmartop30
+                        div class=tagline-v2 padleft30
+                            h3is a creative company specializing in the web design and graphic design industryh3
+                            pWe designed the most suitable module positions specific to your website needs. Edit your website in just a few steps. All control is in your hands.p
+                            a href=# class=btn btn-orange withradius secbtn withiconSee more examples i class=fa fa-long-arrow-rightia
+                        div!-- end tagline --
+                    div!-- end col --
+                div!-- end row --
+            div!-- end container --
+        section!-- end section --

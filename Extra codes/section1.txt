@@ -1,0 +1,107 @@
+        <section class="section big-title-area parallax-off" style="background-image: url(upload/parallax_02.jpg);">
+            <div class="container">
+                <div class="parallax-desc text-center">
+                    <div class="row align-items-center">
+                        <div class="col-md-8 offset-md-2">
+                            <h2>We Can Change Life With Together!</h2>
+                            <p class="lead"> Who says customization has to be complicated? Choose from more than 250+ components that are beautifully designed and ready to use. </p>
+                            <a href="#" data-lity class="followbutton"><i class="fa fa-instagram grd4"></i> <small>Join 25.000+ Community Members</small></a>
+                        </div><!-- end col -->
+                    </div><!-- end row -->
+
+                    <hr class="invis1">
+
+                    <div class="instagram-widget-large clearfix">
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_01.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_02.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_03.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_04.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_05.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_06.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_07.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_08.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_09.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+
+                        <div class="insta-box">
+                            <a href="#">
+                                <div class="magnifier">
+                                    <i class="fa fa-instagram"></i>
+                                </div>
+                                <img src="upload/insta_10.jpg" alt="" class="img-fluid">
+                            </a>
+                        </div><!-- end insta-box -->
+                    </div><!-- end instagram-widget -->
+                </div><!-- end parallax-desc -->
+            </div><!-- end container -->
+        </section><!-- end section -->

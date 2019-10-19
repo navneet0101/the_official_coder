@@ -1,0 +1,85 @@
+/*********************
+    TESTIMONIALS
+**********************/
+
+.testimonial_desc {
+    position: relative;
+    padding:1rem 2rem 1.5rem;
+    background: #ecf0f8;
+}
+.testimonial_desc:after {
+    right: 100%;
+    top: 14%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(236, 240, 248, 0);
+    border-right-color: #ecf0f8;
+    border-width: 15px;
+}
+
+.testi-style-01 {
+    position: relative;
+    padding:2rem;
+    border:1px solid #e9edf5;
+    border-radius: 5px;
+}
+
+.testi-style-02 img {
+    margin-top: 20px;
+}
+
+.testi-style-02 p,
+.testi-style-01 p {
+    padding:0;
+    position: relative;
+    margin:0;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+.testi-style-02 p:after,
+.testi-style-02 p:before,
+.testi-style-01 p:after,
+.testi-style-01 p:before {
+    content: "\f10d";
+    margin-right: 10px;
+    color:#dadee6;
+    display: inline-block;
+    font-family: 'FontAwesome';
+}
+
+.testi-style-02 p:after,
+.testi-style-01 p:after {
+    content: "\f10e";
+    margin-left: 10px;
+}
+
+.testi-style-01 img {
+    margin-right: 2rem;
+    max-width: 120px;
+}
+
+.testi-style-02 h4,
+.testi-style-01 h4 {
+    font-size: 18px;
+    padding:0;
+    margin:1rem 0 1rem;
+}
+
+.testi-style-02 h4 small,
+.testi-style-01 h4 small {
+    font-size: 14px;
+    color:#999999;
+    padding-left: 10px;
+}
+
+
+.testi-style-02 h4 small a,
+.testi-style-01 h4 small a {
+    padding-left: 5px;
+}
